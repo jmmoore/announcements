@@ -76,7 +76,7 @@ Saturday February 1st from 1-4 PM
 
 
 # Tonight's Talks
-* Jonathan VanWinkle on Grunt.js
+* Jonathan Van Winkle on Grunt.js
 * Chuck Haines on Vagrant
 
 ## Enjoy!
