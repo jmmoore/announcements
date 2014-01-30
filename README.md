@@ -13,8 +13,8 @@ We are a community for Web Developers and Designers. Users of any language / fra
 
 # Get Involved
 * Chat daily on IRC: #upfrontwichita
-* Web forum on [createwichita.com](createwichita.com)
-* Watch past presentations on [upfrontwichita.com](upfrontwichita.com)
+* Web forum on [createwichita.com](http://createwichita.com)
+* Watch past presentations on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 
@@ -25,7 +25,7 @@ Monthly costs of $100
 * Meetup Group
 * Hosting
 
-Paypal donate button on [upfrontwichita.com](upfrontwichita.com)
+Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 
