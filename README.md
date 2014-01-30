@@ -1,4 +1,4 @@
-![UpFront Wichita](/img/upfront-logo.svg)
+![UpFront Wichita](img/upfront-logo.svg)
 # Announcements
 ## Thu Jan 30 2014
 
