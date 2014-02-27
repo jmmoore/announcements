@@ -40,7 +40,7 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 # Upcoming Talks
 * March Meeting
  * Featured: Gregg Bolinger on GenRocket: Test Data Generation
- * Quick Talk: ??????????
+ * Quick Talk: Tanner Doshier on Intro to Haskell
 
 
 
