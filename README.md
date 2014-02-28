@@ -44,12 +44,29 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 
-# Code and Coffee
-* A weekly communal coding session.
-* Hosted by member Brian Buller
-* Every Thursday at 7:00 AM
-* At The Labor Party
+# Upcoming Events
 
+
+
+# Lonestar PHP
+![LoneStar PHP](http://lonestarphp.com/images/lonestarphp-logo.png)
+
+* PHP conference in Texas
+* Road Trip!
+* April 25th - 26th 2014
+
+
+
+# ICT Unconference
+* [ictunconference.com](ictunconference.com)
+* April 22nd 2014
+
+
+
+# Hackathon!
+* March 15th 2014
+* startupwichita.com
+* Here at The Labor Party
 
 
 
@@ -61,6 +78,14 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 <div style="float: right">
     <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Freebirds+World+burrito,+North+Hillside+Street,+Wichita,+KS&amp;aq=0&amp;oq=freebird410+N+Hillside&amp;sll=37.690864,-97.317145&amp;sspn=0.040073,0.084543&amp;ie=UTF8&amp;hq=Freebirds+World+burrito,&amp;hnear=N+Hillside+St,+Wichita,+Kansas&amp;ll=37.692405,-97.298332&amp;spn=0.124212,0.006295&amp;t=m&amp;output=embed"></iframe>
 </div>
+
+
+
+# Code and Coffee
+* A weekly communal coding session.
+* Hosted by member Brian Buller
+* Every Thursday at 7:00 AM
+* At The Labor Party
 
 
 
@@ -100,7 +125,6 @@ Happening over the next month.
 * Ruby?
 * Haskell?
 * Graphic Design?
-
 
 
 # New Group Forming
