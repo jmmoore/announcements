@@ -1,19 +1,19 @@
-![UpFront Wichita](img/upfront-logo.svg)
+![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 # Announcements
-## Thu Feb 27th 2014
+## Thu Mar 27th 2014
 
 
 
 # About Us
-We are a community for Web Developers and Designers.
+We are a community for Developers and Designers.
 
 Users of any language / framework / OS are welcome.
 
 
 
 # Get Involved
-* Chat daily on IRC: #upfrontwichita
-* Watch past presentations and participate in code challenges on [upfrontwichita.com](http://upfrontwichita.com)
+* Chat daily on IRC: #devict
+* Watch past presentations and participate in code challenges on [devict.org](http://devict.org)
 
 
 
@@ -26,7 +26,7 @@ Monthly costs of $100
 * Meetup Group
 * Hosting
 
-Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
+Paypal donate button on [devict.org](http://devict.org)
 
 
 
@@ -38,9 +38,11 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 # Upcoming Talks
-* March Meeting
- * Featured: Gregg Bolinger on GenRocket: Test Data Generation
- * Quick Talk: Tanner Doshier on Intro to Haskell
+* April Meeting
+ * Third Thursday (April 17th) due to scheduling conflict
+ * Featured: Rick Kuipers on Automating with Phing
+  * From the Netherlands!!
+ * Quick Talk: You! On... something! :)
 
 
 
@@ -58,25 +60,19 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 # ICT Unconference
-* [ictunconference.com](ictunconference.com)
+* [ictunconference.com](http://ictunconference.com)
 * April 22nd 2014
 
 
 
-# Hackathon!
-* March 15th 2014
-* startupwichita.com
-* Here at The Labor Party
-
-
-
 # Lunch Tomorrow!
-* Freebirds World Burrito
-* 410 N Hillside
+![Bite Me BBQ](http://biteme-bbq.com/images/logo.png)
+
+* 132 N. St. Francis St
 * 12:00 Noon
 
 <div style="float: right">
-    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Freebirds+World+burrito,+North+Hillside+Street,+Wichita,+KS&amp;aq=0&amp;oq=freebird410+N+Hillside&amp;sll=37.690864,-97.317145&amp;sspn=0.040073,0.084543&amp;ie=UTF8&amp;hq=Freebirds+World+burrito,&amp;hnear=N+Hillside+St,+Wichita,+Kansas&amp;ll=37.692405,-97.298332&amp;spn=0.124212,0.006295&amp;t=m&amp;output=embed"></iframe>
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=132+N.+St.+Francis+St,+Wichita,+KS.+67202&amp;ie=UTF8&amp;hq=&amp;hnear=132+N+St+Francis+St,+Wichita,+Kansas+67202&amp;gl=us&amp;t=m&amp;z=14&amp;ll=37.687107,-97.331262&amp;output=embed"></iframe>
 </div>
 
 
@@ -89,53 +85,8 @@ Paypal donate button on [upfrontwichita.com](http://upfrontwichita.com)
 
 
 
-# BIG ANNOUNCEMENT
-* UpFront Wichita is becoming DevICT
-
-
-# DevICT
-* Rebranded to reflect our purpose
-* Anyone interested in development
-* Presentations will focus on general development
-
-
-# Transition Period
-Happening over the next month.
-
-* IRC: #devict
-* Website: [devict.org](devict.org)
-* Twitter: @dev_ict
-
-
-
-# New User Groups
-## Wichita PHP
-## Wichita JS
-
-* Child Groups of DevICT
-* Forming soon
-* Dive Deeper Into Your Language of Choice
-
-
-## Start your Own!
-* Python?
-* Java?
-* Mobile Dev?
-* Game Dev?
-* Ruby?
-* Haskell?
-* Graphic Design?
-
-
-# New Group Forming
-![Women Who Code](http://photos2.meetupstatic.com/photos/event/3/0/4/0/600_330252352.jpeg)
-
-Wichita Codets
-
-
-
 # Tonight's Talks
-* Brian Simpson on CSS Conventions
-* Matthew Keeler on Provisioning with Puppet
+* Tanner Doshier on Intro to Haskell: Type Basics
+* Gregg Bolinger on GenRocket: Test Data Generation
 
 ## Enjoy!
