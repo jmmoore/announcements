@@ -46,36 +46,24 @@ Paypal donate button on [devict.org](http://devict.org)
 # Upcoming Events
 
 
-# Upcoming Talks
-* April Meeting
- * Third Thursday (April 17th) due to scheduling conflict
- * Featured: Rick Kuipers on Automating with Phing
-  * From the Netherlands!!
- * Quick Talk: You! On... something! :)
-
-
 # Lonestar PHP
 ![LoneStar PHP](http://lonestarphp.com/images/lonestarphp-logo.png)
 
 * PHP conference in Texas
 * Road Trip!
-* April 25th - 26th 2014
+* Next week! April 25th - 26th 2014
 
 
 # ICT Unconference
 * [ictunconference.com](http://ictunconference.com)
-* April 22nd 2014
+* Also next week! April 22nd 2014
 
 
 # Lunch Tomorrow!
-![Bite Me BBQ](http://biteme-bbq.com/images/logo.png)
+![Wichita Brewing Company](http://wichitabrew.com/images/wbc_logo.png)
 
-* 132 N. St. Francis St
-* 12:00 Noon
-
-<div style="float: right">
-    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=132+N.+St.+Francis+St,+Wichita,+KS.+67202&amp;ie=UTF8&amp;hq=&amp;hnear=132+N+St+Francis+St,+Wichita,+Kansas+67202&amp;gl=us&amp;t=m&amp;z=14&amp;ll=37.687107,-97.331262&amp;output=embed"></iframe>
-</div>
+* 8815 W 13th St Suite 100
+* 11:30 AM
 
 
 # Code and Coffee
@@ -85,9 +73,16 @@ Paypal donate button on [devict.org](http://devict.org)
 * At The Labor Party
 
 
+# Upcoming Talks
+* May Meeting
+ * Last Thursday (May 29th)
+ * Quick Talk: Jim Rice on Scripting GIMP
+ * Featured: Seth Etter on Express
+
+
 
 # Tonight's Talks
-* Tanner Doshier on Intro to Haskell: Type Basics
-* Gregg Bolinger on GenRocket: Test Data Generation
+* Quick Talk: Shelton Koskie: 6 Ways Your SSL Website Is Easily Hacked
+* Featured: Rick Kuipers on Built That Phing
 
 ## Enjoy!
