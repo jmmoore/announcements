@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 # Announcements
-## Thu Mar 27th 2014
+## Thu Apr 17th 2014
 
 
 
