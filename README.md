@@ -46,6 +46,15 @@ Paypal donate button on [devict.org](http://devict.org)
 # Upcoming Events
 
 
+# Startup Weekend
+<img src="http://wichita.startupweekend.org/files/2013/09/WebsiteBanner.png" width="680" height="227" />
+
+* May 30 - Jun 1
+* Startup Competition
+* Build a business in a weekend!
+* Non-tech needed!
+
+
 # Thunder Plains Conference
 * Developer Conference in OKC
 * October 9th, 2014
