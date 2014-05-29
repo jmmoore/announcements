@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 # Announcements
-## Thu Apr 17th 2014
+## Thu May 29th 2014
 
 
 
@@ -46,23 +46,16 @@ Paypal donate button on [devict.org](http://devict.org)
 # Upcoming Events
 
 
-# Lonestar PHP
-![LoneStar PHP](http://lonestarphp.com/images/lonestarphp-logo.png)
-
-* PHP conference in Texas
-* Road Trip!
-* Next week! April 25th - 26th 2014
-
-
-# ICT Unconference
-* [ictunconference.com](http://ictunconference.com)
-* Also next week! April 22nd 2014
+# Thunder Plains Conference
+* Developer Conference in OKC
+* October 9th, 2014
+* HTML5 / CSS3 / JS / APIs/ Mobile
 
 
 # Lunch Tomorrow!
-![Wichita Brewing Company](http://wichitabrew.com/images/wbc_logo.png)
+<img src="http://www.lotusleafwichita.com/img/full_color_RGB.png" width="200px" height="232px" />
 
-* 8815 W 13th St Suite 100
+* 251 N. Washington
 * 11:30 AM
 
 
@@ -74,15 +67,15 @@ Paypal donate button on [devict.org](http://devict.org)
 
 
 # Upcoming Talks
-* May Meeting
- * Last Thursday (May 29th)
- * Quick Talk: Jim Rice on Scripting GIMP
- * Featured: Seth Etter on Express
+* June Meeting
+ * Last Thursday (June 26th)
+ * Quick Talk: ???????????
+ * Featured: Jacob Walker on Intro to Object Oriented Programming
 
 
 
 # Tonight's Talks
-* Quick Talk: Shelton Koskie: 6 Ways Your SSL Website Is Easily Hacked
-* Featured: Rick Kuipers on Built That Phing
+* Quick Talk: Jim Rice on Scripting GIMP
+* Featured: Seth Etter on Express.js
 
 ## Enjoy!
