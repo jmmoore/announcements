@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 # Announcements
-## Thu May 29th 2014
+## Thu Jun 26 2014
 
 
 
@@ -46,13 +46,10 @@ Paypal donate button on [devict.org](http://devict.org)
 # Upcoming Events
 
 
-# Startup Weekend
-<img src="http://wichita.startupweekend.org/files/2013/09/WebsiteBanner.png" width="680" height="227" />
+<img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* May 30 - Jun 1
-* Startup Competition
-* Build a business in a weekend!
-* Non-tech needed!
+* Hack Night
+* July 23
 
 
 # Thunder Plains Conference
@@ -62,9 +59,9 @@ Paypal donate button on [devict.org](http://devict.org)
 
 
 # Lunch Tomorrow!
-<img src="http://www.lotusleafwichita.com/img/full_color_RGB.png" width="200px" height="232px" />
+<img src="http://upload.wikimedia.org/wikipedia/en/3/3b/Chipotle_Mexican_Grill_logo.svg" width="680" height="227" alt="Chipotle"/>
 
-* 251 N. Washington
+* Central and Hillside
 * 11:30 AM
 
 
@@ -76,15 +73,14 @@ Paypal donate button on [devict.org](http://devict.org)
 
 
 # Upcoming Talks
-* June Meeting
- * Last Thursday (June 26th)
- * Quick Talk: ???????????
- * Featured: Jacob Walker on Intro to Object Oriented Programming
+* July Meeting
+ * Last Thursday (July 31st)
+ * Quick Talk: Matt Conrad on SQL Tips and Tricks
+ * Featured: Eddy Dreger on NoSQL
 
 
 
-# Tonight's Talks
-* Quick Talk: Jim Rice on Scripting GIMP
-* Featured: Seth Etter on Express.js
+# Tonight's Talk
+* Jacob Walker on Implementing OOP
 
 ## Enjoy!
