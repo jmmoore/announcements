@@ -12,7 +12,7 @@ Users of any language / framework / OS are welcome.
 
 
 # Get Involved
-* Chat daily on IRC: #devict
+* Chat daily on IRC: #devict -- devict.org/irc
 * Watch past presentations and participate in code challenges on [devict.org](http://devict.org)
 
 
