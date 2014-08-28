@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 # Announcements
-## Thu July 31 2014
+## Thu Aug 28 2014
 
 
 
@@ -10,6 +10,10 @@ We are a community for Developers and Designers.
 Users of any language / framework / OS are welcome.
 
 
+## Mission
+To educate, empower, and connect software developers in the Wichita area.
+
+
 
 # Get Involved
 * Chat daily on IRC: #devict
@@ -17,26 +21,26 @@ Users of any language / framework / OS are welcome.
 * Watch past presentations and participate in code challenges on [devict.org](http://devict.org)
 
 
-# Donate
+## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs of $150
+Monthly costs up to $150
 
-* The Labor Party membership
 * Meetup Group
 * Presentation Streaming
 * Site Hosting
+* The Labor Party membership
 
-Paypal donate button on [devict.org](http://devict.org)
+PayPal donate button on [devict.org](http://devict.org)
 
 
-# Give a Talk
+## Give a Talk
 * Great way to learn about a topic of interest.
 * Any development or design subject is appropriate.
 * Could be practice for presentation at a professional conference.
 
 
-# startupwichita.com
+## startupwichita.com
 * Fork it!
 * Back end
  * MongoDB, Express (Node.js)
@@ -44,15 +48,9 @@ Paypal donate button on [devict.org](http://devict.org)
  * Angular.js, Bootstrap
 
 
-# jobs.devict.org
+## jobs.devict.org
 * View job postings
 * Post job openings
-
-
-# MakeICT Meeting
-Discussing joining forces with MakeICT and Start Up Wichita.
-
-MakeICT is holding a special meeting on the topic Sunday at 1pm.
 
 
 
@@ -61,34 +59,32 @@ MakeICT is holding a special meeting on the topic Sunday at 1pm.
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* Career Workshop
-* August 20
+* Hack Night
+* Wed Sep 3rd
+* Baseline Creative
 
 
-# Thunder Plains Conference
+## Thunder Plains Conference
 * Developer Conference in OKC
 * October 9th, 2014
 * HTML5 / CSS3 / JS / APIs/ Mobile
 
 
-# Lunch Tomorrow!
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Western_Sushi.jpg/1280px-Western_Sushi.jpg" width="600"alt="Sushi"/>
+## Lunch Tomorrow!
+<img src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2012/11/12/f3/73/HuHot.vert_logo.png" width="300"alt="HuHot"/>
 
-* Wasabi @ 912 E Douglas
+* HuHot @ 2035 N Rock Rd
 * 11:30 AM
 
 
-# Code and Coffee
+## Code and Coffee
 * A weekly communal coding session.
 * Hosted by member Brian Buller
 * Every Thursday at 7:00 AM
 * At The Labor Party
 
 
-# Upcoming Talks
-* August Meeting
- * Last Thursday (August 28th)
- * TDD by Rob Johnson
+## Upcoming Talks
 * September Meeting
  * Last Thursday (September 25th)
  * Accessibility by Jim Rice
@@ -96,7 +92,6 @@ MakeICT is holding a special meeting on the topic Sunday at 1pm.
 
 
 # Tonight's Talk
-* Quick Talk: Matt Conrad on SQL Tips and Tricks
-* Featured: Eddy Dreger on No BS NoSQL
+* Featured: Rob Johnson on TDD
 
 ## Enjoy!
