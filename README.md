@@ -1,16 +1,18 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
-# Announcements
-## Thu Aug 28 2014
 
+![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
+## Thu Sep 25 2014
+
+
+
+# About Us
+* devICT is a program ran by MakeICT members.
+* Check out [http://makeict.org](http://makeict.org)
 
 
 # About Us
 We are a community for Developers and Designers.
 
-Users of any language / framework / OS are welcome.
-
-
-## Mission
 To educate, empower, and connect software developers in the Wichita area.
 
 
@@ -40,14 +42,6 @@ PayPal donate button on [devict.org](http://devict.org)
 * Could be practice for presentation at a professional conference.
 
 
-## startupwichita.com
-* Fork it!
-* Back end
- * MongoDB, Express (Node.js)
-* Front end
- * Angular.js, Bootstrap
-
-
 ## jobs.devict.org
 * View job postings
 * Post job openings
@@ -59,8 +53,9 @@ PayPal donate button on [devict.org](http://devict.org)
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* Hack Night
-* Wed Sep 3rd
+* Panel Event
+ * Q&A with 3-5 industry leaders
+* Wed Oct 15th
 * Baseline Creative
 
 
@@ -71,9 +66,10 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Lunch Tomorrow!
-<img src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2012/11/12/f3/73/HuHot.vert_logo.png" width="300"alt="HuHot"/>
+<img src="https://lh6.googleusercontent.com/-g5rd-KqQ2VA/VCQxyQhM93I/AAAAAAAAAAA/WSWk0f_lmt0/w940-h235/event_theme.jpg" alt="WBC"/>
 
-* HuHot @ 2035 N Rock Rd
+* Wichita Brewing Company
+* 8815 West 13th
 * 11:30 AM
 
 
@@ -84,14 +80,17 @@ PayPal donate button on [devict.org](http://devict.org)
 * At The Labor Party
 
 
-## Upcoming Talks
-* September Meeting
- * Last Thursday (September 25th)
- * Accessibility by Jim Rice
+## Halloween Mixer
+* In lieu of a talk
+* October 30th
+* Drink, socialize
+* Bring a laptop if you want
+* Dress up?
 
 
 
-# Tonight's Talk
-* Featured: Rob Johnson on TDD
+# Tonight's Talks
+* Jim Rice: Baby Springboards Towards Better Accessibility
+* Matt Young: iPython Notebooks
 
 ## Enjoy!
