@@ -26,10 +26,9 @@ To educate, empower, and connect software developers in the Wichita area.
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs up to $150
+Monthly costs up to $100
 
 * Meetup Group
-* Presentation Streaming
 * Site Hosting
 * The Labor Party membership
 
