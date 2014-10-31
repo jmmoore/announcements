@@ -11,7 +11,7 @@
 
 
 # About Us
-We are a community for Developers and Designers.
+We are a community for Developers.
 
 To educate, empower, and connect software developers in the Wichita area.
 
