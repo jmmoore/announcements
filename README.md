@@ -1,7 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Thu Sep 25 2014
+## Tue Jan 13 2014
 
 
 
@@ -16,11 +16,22 @@ We are a community for Developers.
 To educate, empower, and connect software developers in the Wichita area.
 
 
+# Code of Conduct
+devICT is dedicated to a **safe** and **harassment-free** experience for
+everyone. We do not tolerate harassment in **any form**.
+
+If you have any questions or concerns please feel free to reach out to one
+of the devICT organizers.
+
+Our anti-harassment policy can be found at:
+[devict.org/conduct][https://devict.org/conduct]
+
+
 
 # Get Involved
-* Chat daily on IRC: #devict
- * Can use web chat client at [devict.org/irc](http://devict.org/irc)
-* Watch past presentations and participate in code challenges on [devict.org](http://devict.org)
+* Chat daily on Slack
+ * Ask an admin for an invite
+* Watch past presentations on [devict.org](http://devict.org)
 
 
 ## Donate
@@ -47,49 +58,36 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 
-# Upcoming Events
-
-
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
-
-* Panel Event
- * Q&A with 3-5 industry leaders
-* Wed Oct 15th
-* Baseline Creative
-
-
-## Thunder Plains Conference
-* Developer Conference in OKC
-* October 9th, 2014
-* HTML5 / CSS3 / JS / APIs/ Mobile
-
-
-## Lunch Tomorrow!
-<img src="https://lh6.googleusercontent.com/-g5rd-KqQ2VA/VCQxyQhM93I/AAAAAAAAAAA/WSWk0f_lmt0/w940-h235/event_theme.jpg" alt="WBC"/>
-
-* Wichita Brewing Company
-* 8815 West 13th
-* 11:30 AM
+## Wed Jan 28th
+* Meet & Greet
+* At The Labor Party
 
 
 ## Code and Coffee
 * A weekly communal coding session.
 * Hosted by member Brian Buller
-* Every Thursday at 7:00 AM
+* **Every Thursday starting at 7:00 AM**
+* Come whenever, leave whenever
 * At The Labor Party
 
 
-## Halloween Mixer
-* In lieu of a talk
-* October 30th
-* Drink, socialize
-* Bring a laptop if you want
-* Dress up?
+## Hackathon!
+### Sat Jan 17th
+* 9 AM until ??
+* Come work on whatever
+* Individually or in groups
+* Some food and drink provided
 
 
+## 2015 Kickoff Party
+### Thu Jan 22nd
+* 7 PM
+* Social gathering
+* At The Labor Party
 
-# Tonight's Talks
-* Jim Rice: Baby Springboards Towards Better Accessibility
-* Matt Young: iPython Notebooks
 
-## Enjoy!
+## GUI Automation with Sikuli
+### Thu Jan 29th
+* 7 PM
+* Presented by Dominic Canare
