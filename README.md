@@ -72,14 +72,6 @@ PayPal donate button on [devict.org](http://devict.org)
 * At The Labor Party
 
 
-## Hackathon!
-### Sat Jan 17th
-* 9 AM until ??
-* Come work on whatever
-* Individually or in groups
-* Some food and drink provided
-
-
 ## 2015 Kickoff Party
 ### Thu Jan 22nd
 * 7 PM
