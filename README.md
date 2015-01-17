@@ -1,8 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Tue Jan 13 2014
-
+## Sat Jan 17 2015
 
 
 # About Us
