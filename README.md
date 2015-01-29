@@ -1,7 +1,8 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Sat Jan 17 2015
+## Thu Jan 29 2015
+
 
 
 # About Us
@@ -57,10 +58,13 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 
+# Upcoming Events
+
+
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
-## Wed Jan 28th
-* Meet & Greet
-* At The Labor Party
+## Sat Feb 7th
+* Personal Website Mini-Hackathon
+* 9 AM - Noon
 
 
 ## Code and Coffee
@@ -68,17 +72,26 @@ PayPal donate button on [devict.org](http://devict.org)
 * Hosted by member Brian Buller
 * **Every Thursday starting at 7:00 AM**
 * Come whenever, leave whenever
-* At The Labor Party
 
 
-## 2015 Kickoff Party
-### Thu Jan 22nd
-* 7 PM
-* Social gathering
-* At The Labor Party
+## Nerd Beers
+* Like Code and Coffee but at night
+* With beer (BYOB)
+* Or not
+* **Every Second Tuesday 6:00 - 9:00 PM**
 
 
-## GUI Automation with Sikuli
-### Thu Jan 29th
-* 7 PM
+## February's Meeting
+* **Every Last Thursday at 7:00 PM**
+ * February 26th
+* John Harrison on Pure Data
+
+
+
+## Tonight's Event
+* GUI Automation with Sikuli
 * Presented by Dominic Canare
+
+
+<img src="http://help.exercism.io/img/logo.svg" width="500" height="500" alt="exercism"/>
+# exercism.io
