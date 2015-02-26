@@ -1,7 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Thu Jan 29 2015
+## Thu Feb 26 2015
 
 
 
@@ -24,7 +24,7 @@ If you have any questions or concerns please feel free to reach out to one
 of the devICT organizers.
 
 Our anti-harassment policy can be found at:
-[devict.org/conduct][https://devict.org/conduct]
+[devict.org/conduct](https://devict.org/conduct)
 
 
 
@@ -62,9 +62,10 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
-## Sat Feb 7th
-* Personal Website Mini-Hackathon
-* 9 AM - Noon
+
+* March 9th - 7:00 PM - Project Share
+* March 14th - 9:00 AM - Study Group
+* March 30th - 7:00 PM - Study Group
 
 
 ## Code and Coffee
@@ -81,17 +82,28 @@ PayPal donate button on [devict.org](http://devict.org)
 * **Every Second Tuesday 6:00 - 9:00 PM**
 
 
-## February's Meeting
+## Dev Lunch
+* Little Saigon
+* 1015 N Broadway St
+* Tomorrow, Feb 27th
+* 11:30 AM
+
+
+## Kansas Linux Fest
+<img src="http://www.kansaslinuxfest.us/images/klf15logo_twitter_white.png" alt="Kansas Linux Fest" />
+
+* March 21st - 22nd
+* Lawrence Public Library
+* Carpooling
+
+
+## March Meeting
 * **Every Last Thursday at 7:00 PM**
- * February 26th
-* John Harrison on Pure Data
+ * March 26th
+* Jacob Walker and Matthew Keeler on Vim and Emacs
 
 
 
 ## Tonight's Event
-* GUI Automation with Sikuli
-* Presented by Dominic Canare
-
-
-<img src="http://help.exercism.io/img/logo.svg" width="500" height="500" alt="exercism"/>
-# exercism.io
+* Real Time Media Manipulation with Pure Data
+* Presented by John Harrison
