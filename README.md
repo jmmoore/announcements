@@ -1,7 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Thu Feb 26 2015
+## Tue Mar 10 2015
 
 
 
@@ -63,7 +63,6 @@ PayPal donate button on [devict.org](http://devict.org)
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* March 9th - 7:00 PM - Project Share
 * March 14th - 9:00 AM - Study Group
 * March 30th - 7:00 PM - Study Group
 
@@ -82,13 +81,6 @@ PayPal donate button on [devict.org](http://devict.org)
 * **Every Second Tuesday 6:00 - 9:00 PM**
 
 
-## Dev Lunch
-* Little Saigon
-* 1015 N Broadway St
-* Tomorrow, Feb 27th
-* 11:30 AM
-
-
 ## Kansas Linux Fest
 <img src="http://www.kansaslinuxfest.us/images/klf15logo_twitter_white.png" alt="Kansas Linux Fest" />
 
@@ -97,13 +89,13 @@ PayPal donate button on [devict.org](http://devict.org)
 * Carpooling
 
 
+<img src="http://www.adastraacademy.com/assets/AAA_Logo-a9b0cad2ff207d7941fcb534973d6f0d.png" alt="Ad Astra Academy" />
+
+* Intro to Ruby and Databases - April 20th
+* Ruby on Rails - May 25th
+
+
 ## March Meeting
 * **Every Last Thursday at 7:00 PM**
  * March 26th
 * Jacob Walker and Matthew Keeler on Vim and Emacs
-
-
-
-## Tonight's Event
-* Real Time Media Manipulation with Pure Data
-* Presented by John Harrison
