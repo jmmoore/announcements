@@ -72,6 +72,12 @@ PayPal donate button on [devict.org](http://devict.org)
 * April 27th - 7:00 PM - Network After Work
 
 
+## MakeICT: International Arduino Day
+* Saturday, Mar 28 @ 3-5p
+* Build a floppy drive organ
+  * If you have an arduino, or a floppy drive, bring them!
+
+
 ## Code and Coffee
 * A weekly communal coding session.
 * Hosted by member Brian Buller
