@@ -61,6 +61,11 @@ PayPal donate button on [devict.org](http://devict.org)
 # Upcoming Events
 
 
+## Developer Lunch
+* Five Guys on Douglas
+* Tomorrow (Friday) @ 11:30
+
+
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
 * March 30th - 7:00 PM - Study Group
@@ -94,7 +99,19 @@ PayPal donate button on [devict.org](http://devict.org)
  * Ruby on Rails - May 25th - June 17th
 
 
-## March Meeting
+## March Presentation
 * **Every Last Thursday at 7:00 PM**
  * April 30
 * Cool node stuff! - Seth Etter
+
+
+## Startup Weekend
+* Build a startup in a weekend!
+* April 17-19, tickets available now
+* http://wichita.up.co/events/5641
+
+
+## Game Jam!
+* Info @ devict.org/gamejam
+* Survey on link above, *go fill it out!*
+* Date pending - late July, early August
