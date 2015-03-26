@@ -66,16 +66,16 @@ PayPal donate button on [devict.org](http://devict.org)
 * Tomorrow (Friday) @ 11:30
 
 
-<img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
-
-* March 30th - 7:00 PM - Study Group
-* April 27th - 7:00 PM - Network After Work
-
-
 ## MakeICT: International Arduino Day
 * Saturday, Mar 28 @ 3-5p
 * Build a floppy drive organ
   * If you have an arduino, or a floppy drive, bring them!
+
+
+<img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
+
+* March 30th - 7:00 PM - Study Group
+* April 27th - 7:00 PM - Network After Work
 
 
 ## Code and Coffee
@@ -118,6 +118,6 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Game Jam!
-* Info @ devict.org/gamejam
+* Info @ ictgamejam.com
 * Survey on link above, *go fill it out!*
 * Date pending - late July, early August
