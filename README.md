@@ -1,6 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
+
 ## Thu May 28 2015
 
 
@@ -48,7 +49,7 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## Give a Talk
 * Great way to learn about a topic of interest.
-* Any development or design subject is appropriate.
+* Anything related to development is appropriate
 * Could be practice for presentation at a professional conference.
 
 
@@ -107,3 +108,8 @@ PayPal donate button on [devict.org](http://devict.org)
 ## Game Jam!
 * July 31 - August 2
 * Info @ ictgamejam.com
+
+
+## Tonight's talk!
+*Brian Foster*
+Make a Game in 30 Minutes w/ Unity3D
