@@ -1,7 +1,7 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
-## Thu Mar 26 2015
+## Thu May 28 2015
 
 
 
@@ -62,20 +62,20 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Five Guys on Douglas
 * Tomorrow (Friday) @ 11:30
+* Will announce location on twitter! @dev_ict
 
 
-## MakeICT: International Arduino Day
-* Saturday, Mar 28 @ 3-5p
-* Build a floppy drive organ
-  * If you have an arduino, or a floppy drive, bring them!
+## MakeICT Open Hack Night
+* June 1 - 7pm
+* Every other Monday
 
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* March 30th - 7:00 PM - Study Group
-* April 27th - 7:00 PM - Network After Work
+* June 5 - 7:00 PM - WWC LadyDev Social
+* June 17 - 6:30 PM - Game Dev w/ Fireshark
+* June 29 - 6:30 PM - Code Together
 
 
 ## Code and Coffee
@@ -88,36 +88,22 @@ PayPal donate button on [devict.org](http://devict.org)
 ## Monthly Hangout
 * Like Code and Coffee but at night
 * **Every Second Tuesday 6:00 - 9:00 PM**
-* New name! (Formerly 'Nerd Beers')
- * Feel free to bring beer, or not
 
 
 <img src="http://www.adastraacademy.com/assets/AAA_Logo-a9b0cad2ff207d7941fcb534973d6f0d.png" alt="Ad Astra Academy" />
 
 * Workshops
- * HTML & CSS 1 - March 28th
- * HTML & CSS 2 - April 11th
- * JavaScript 1 - April 25th
- * JavaScript 2 w/ jQuery - May 2nd
- * Version Control with Git - May 9th
+  * HTML & CSS 1 - May 30th
+  * HTML & CSS 2 - June 06th
+  * JavaScript 1 - June 13th
+  * JavaScript 2 with jQuery - June 20th
+  * Version control with Git - June 27th
 * Courses
- * Intro to Ruby and Databases - April 20th - May 13th
- * Ruby on Rails - May 25th - June 17th
-
-
-## March Presentation
-* **Every Last Thursday at 7:00 PM**
- * April 30
-* Cool node stuff! - Seth Etter
-
-
-## Startup Weekend
-* Build a startup in a weekend!
-* April 17-19, tickets available now
-* http://wichita.up.co/events/5641
+  * JavaScript and Web Development - Aug 10 - Sep 2
+  * Intro to Ruby and Databases - Sep 14 - Oct 7
+  * Ruby on Rails - Oct 19 - Nov 11
 
 
 ## Game Jam!
+* July 31 - August 2
 * Info @ ictgamejam.com
-* Survey on link above, *go fill it out!*
-* Date pending - late July, early August
