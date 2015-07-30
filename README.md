@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu July 23rd 2015
+## Thu July 30th 2015
 
 
 
@@ -64,7 +64,7 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## MakeICT Open Hack Night
 * Every other Monday
-* July 27th - 7 PM
+* August 10th - 7 PM
 
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
@@ -87,7 +87,6 @@ Go check them out!
 <img src="http://www.adastraacademy.com/assets/AAA_Logo-a9b0cad2ff207d7941fcb534973d6f0d.png" alt="Ad Astra Academy" />
 
 * Workshops
-  * JavaScript 1 - July 25th
   * JavaScript 2 with jQuery - August 1st
   * Version control with Git - August 8th
 * Courses
@@ -99,14 +98,8 @@ Go check them out!
 
 # devICT Events
 
-
-## Set Phaser to Game Development
-* July 30 @ 7:00
-* Phaser.js - Browser based game engine
-
-
 ## Game Jam!
-* July 31 - August 2
+* TOMORROW July 31 - August 2
 * Info @ ictgamejam.com
 
 
@@ -129,13 +122,13 @@ Go check them out!
 
 
 ## Next Month's Talk
-Jacob Walker on **Getting Started with Go**
+Gregg Bolinger **Fanning the EMbers of your Web App**
 
-Last Thursday, July 23rd
+Last Thursday, August 27th
 
 
 
 ## Tonight's talk!
-Jacob Walker (*@jcbwlk* on Slack / Twitter)
+Jesse Harlin (*@5imian* on Twitter)
 
-### Getting Started with Go
+### Set Phase to Game Development
