@@ -84,6 +84,10 @@ New group on meetup.com
 Go check them out!
 
 
+## WuLUG (WSU Linux User Group)
+* They rock!
+
+
 <img src="http://www.adastraacademy.com/assets/AAA_Logo-a9b0cad2ff207d7941fcb534973d6f0d.png" alt="Ad Astra Academy" />
 
 * Workshops
