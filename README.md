@@ -2,8 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu July 30th 2015
-
+## Thu Aug 27th 2015
 
 
 # About Us
@@ -62,54 +61,41 @@ PayPal donate button on [devict.org](http://devict.org)
 # Our Friends
 
 
-## MakeICT Open Hack Night
+## MakeICT Maker Mondays
 * Every other Monday
-* August 10th - 7 PM
+* September 07th - 7 PM
 
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* Aug 5 - 6:00 PM - Github Bootcamp!
-* Sep 2 - 7:00 PM - Lightning Talk
+* Sep 02 - 7:00 PM - Lightning Talks @ TLP
+* Oct 08 - 6:30 PM - How to Write Beautiful Code @ BCC
 
 
 <img src="http://photos2.meetupstatic.com/photos/theme_head/5/e/e/f/full_6804303.jpeg" width="960" height="150" alt="Open Wichita"/>
 
-* Hack Night - Aug 13th - 5:30 PM - The Labor Party
+* Hack Night - Sep 10th - 5:30 PM - The Labor Party
 
 
 ## Wichita WordPress Meetup
-New group on meetup.com
 
-Go check them out!
+* Planning Session
+ * Sep 02nd - 7:00 PM
+ * Braums at 36th and Rock
 
 
 ## WuLUG (WSU Linux User Group)
-* They rock!
 
-
-<img src="http://www.adastraacademy.com/assets/AAA_Logo-a9b0cad2ff207d7941fcb534973d6f0d.png" alt="Ad Astra Academy" />
-
-* Workshops
-  * JavaScript 2 with jQuery - August 1st
-  * Version control with Git - August 8th
-* Courses
-  * JavaScript and Web Development - Aug 10 - Sep 2
-  * Intro to Ruby and Databases - Sep 14 - Oct 7
-  * Ruby on Rails - Oct 19 - Nov 11
+* Sep 03rd WSU Jabara room 205
 
 
 
 # devICT Events
 
-## Game Jam!
-* TOMORROW July 31 - August 2
-* Info @ ictgamejam.com
-
 
 ## Developer Lunch
-* July 31 (Friday) @ 11:30
-* The Hungry Heart
+* Aug 28th (Friday) @ 11:30
+* Tanya's Soup Kitchen
 
 
 ## Code and Coffee
@@ -122,17 +108,20 @@ Go check them out!
 ## Monthly Hangout
 * Like Code and Coffee but at night
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * August 11
+  * September 08th
 
 
 ## Next Month's Talk
-Gregg Bolinger **Fanning the EMbers of your Web App**
 
-Last Thursday, August 27th
+Lightning talks
+
+Need speakers!!!
+
+Last Thursday, September 24th
 
 
 
 ## Tonight's talk!
-Jesse Harlin (*@5imian* on Twitter)
+Gregg Bolinger
 
-### Set Phase to Game Development
+##Fanning the Embers of your Web App
