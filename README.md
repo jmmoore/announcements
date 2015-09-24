@@ -63,30 +63,27 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## MakeICT Maker Mondays
 * Every other Monday
-* September 07th - 7 PM
+* Oct 5 - 7 PM
 
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
 
-* Sep 02 - 7:00 PM - Lightning Talks @ TLP
 * Oct 08 - 6:30 PM - How to Write Beautiful Code @ BCC
 
 
 <img src="http://photos2.meetupstatic.com/photos/theme_head/5/e/e/f/full_6804303.jpeg" width="960" height="150" alt="Open Wichita"/>
 
-* Hack Night - Sep 10th - 5:30 PM - The Labor Party
+* Hack Night - Oct 8 - 5:30 PM - The Labor Party
 
 
 ## Wichita WordPress Meetup
 
-* Planning Session
- * Sep 02nd - 7:00 PM
- * Braums at 36th and Rock
+* Bring you Laptop and WP Questions - Oct 5 - 7PM
 
 
 ## WuLUG (WSU Linux User Group)
 
-* Sep 03rd WSU Jabara room 205
+* Oct 1 WSU Jabara Room 205/206
 
 
 
@@ -94,8 +91,8 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Aug 28th (Friday) @ 11:30
-* Tanya's Soup Kitchen
+* Sept 25 (Friday) @ 11:30
+* Pie Five @ Maple & Ridge
 
 
 ## Code and Coffee
@@ -108,7 +105,7 @@ PayPal donate button on [devict.org](http://devict.org)
 ## Monthly Hangout
 * Like Code and Coffee but at night
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * September 08th
+  * October 13
 
 
 ## Next Month's Talk
@@ -117,11 +114,17 @@ Lightning talks
 
 Need speakers!!!
 
-Last Thursday, September 24th
+Last Thursday, October 29
 
 
 
 ## Tonight's talk!
-Gregg Bolinger
+Lightning Talks!
 
-##Fanning the Embers of your Web App
+* Lynn Miskell - Wearables 
+* Chad Cox - Page layout
+* Matt Conrad - Useful tools
+* Sara Bahrami - A Framework for Software Maintenance
+* Jacob Walker - ngrok
+* Seth Etter - How to become a developer
+* *You?!*
