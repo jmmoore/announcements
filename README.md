@@ -125,6 +125,7 @@ Lightning Talks!
 * Chad Cox - Page layout
 * Matt Conrad - Useful tools
 * Sara Bahrami - A Framework for Software Maintenance
+* Ben Blankley - Open Source Console Emulators
 * Jacob Walker - ngrok
 * Seth Etter - How to become a developer
 * *You?!*
