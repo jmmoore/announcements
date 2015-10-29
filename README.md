@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu Sept 24 2015
+## Thu Oct 29 2015
 
 
 # About Us
@@ -60,30 +60,24 @@ PayPal donate button on [devict.org](http://devict.org)
 
 # Our Friends
 
-
-## MakeICT Maker Mondays
-* Every other Monday
-* Oct 5 - 7 PM
-
-
-<img src="http://photos4.meetupstatic.com/photos/event/3/0/4/0/highres_330252352.jpeg" width="680" height="227" alt="Women Who Code"/>
-
-* Oct 08 - 6:30 PM - How to Write Beautiful Code @ BCC
+* MakeICT - makeict.org
+* Women Who Code - meetup.com/wwcwichita
+* WuLUG, Linux Group - facebook.com/wulug
+* WordPress - meetup.com/wichita-wordpress-meetup
+* Startup Wichita - startupwichita.com
+* Shocker Startup - facebook.com/shockerstartup
 
 
-<img src="http://photos2.meetupstatic.com/photos/theme_head/5/e/e/f/full_6804303.jpeg" width="960" height="150" alt="Open Wichita"/>
+# Upcoming Events
 
-* Hack Night - Oct 8 - 5:30 PM - The Labor Party
-
-
-## Wichita WordPress Meetup
-
-* Bring you Laptop and WP Questions - Oct 5 - 7PM
-
-
-## WuLUG (WSU Linux User Group)
-
-* Oct 1 WSU Jabara Room 205/206
+* MakeICT - Maker Mondays
+  * November 1, 7pm
+* WWC - Wearable Tech
+  * Novermber 4, 6:30
+* Startup Weekend
+  * November 13-15
+* Startup Third Thursday
+  * November 19, 5p
 
 
 
@@ -91,8 +85,16 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Sept 25 (Friday) @ 11:30
-* Pie Five @ Maple & Ridge
+* Oct 30 (Friday) @ 11:30
+* Wasabi, Douglas and Washington
+
+
+## Level Up!
+* Learn to code for free!
+* Self-directed w/ mentors on-hand
+* **Every other Monday, 5:30-8**
+  * November 9, here at The Labor Party
+  * Pizza for Jonathan George!
 
 
 ## Code and Coffee
@@ -110,22 +112,17 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## Next Month's Talk
 
-Lightning talks
-
-Need speakers!!!
-
-Last Thursday, October 29
-
+Nothing! Nov / Dec off for Holidays
 
 
 ## Tonight's talk!
 Lightning Talks!
 
-* Lynn Miskell - Wearables 
-* Chad Cox - Page layout
-* Matt Conrad - Useful tools
-* Sara Bahrami - A Framework for Software Maintenance
-* Ben Blankley - Open Source Console Emulators
-* Jacob Walker - ngrok
-* Seth Etter - How to become a developer
+* Jett Durham - Intro to REST
+* Peri Saner - RGB v CMYK
+* Christian Taylor - Vue.js
+* Sara Bahrami - Factory & Decorator Patterns
+* Jacob Walker - Surprise!
+* Seth Etter - Surprise!
+* Christian Taylor & Nic Wentling - Cat Robots
 * *You?!*
