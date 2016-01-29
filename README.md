@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu Jan 28 2015
+## Thu Jan 28 2016
 
 
 # About Us
