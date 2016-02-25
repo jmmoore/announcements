@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu Jan 28 2016
+## Thu Feb 25 2016
 
 
 # About Us
@@ -30,7 +30,7 @@ Our anti-harassment policy can be found at:
 
 # Get Involved
 * Chat daily on Slack
- * Ask an admin for an invite
+ * Get invite from [devict.org](http://devict.org)
 * Watch past presentations on [devict.org](http://devict.org)
 * [jobs.devict.org](http://jobs.devict.org)
 
@@ -70,18 +70,18 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Jan 29 (Friday) @ 11:30
-* Dempsey's Burger Pub, Douglas and Clifton
+* Jan 25 (Friday) @ 11:30
+* ICT Pop Up Park, 121 E Douglas Ave
 
-![Dempsey's](http://dempseyswichita.com/wp-content/uploads/2014/10/burger-520.jpeg)
+![Pop Up Park](https://scontent.fmci1-1.fna.fbcdn.net/hphotos-xfl1/v/t1.0-9/12002146_1481497942151289_5092012979119519870_n.png?oh=766ccbefef831cb9392ac5d220611a80&oe=572386F8)
 
 
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * Feb 1st, at the MakeICT Makerspace
-  * Pizza sponsored by Wichita Esports
+  * Feb 29th, Mar 14th, Mar 28th
+  * At the MakeICT Makerspace
 
 
 ## Code and Coffee
@@ -92,21 +92,16 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * February 9th
-* February's Theme: Nerd Beers!
-  * BYOB
-  * Non-alchoholic drinks provided
+  * March 8th
+* February's Theme: Board Games!
+  * BYOB(oard games)
 
 
 ## Next Month's Talk
 
-Mobile Dev Quick Talks
-
-4-5 short presentations themed around mobile dev.
+Joshua Jung on Compiler Basics
 
 
 ## Tonight's talk!
 
-Automatic REST APIs with PostgREST
-
-- Jett Durham
+Mobile Dev Quick Talks
