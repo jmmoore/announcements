@@ -59,6 +59,7 @@ PayPal donate button on [devict.org](http://devict.org)
 
 * MakeICT - makeict.org
 * Women Who Code - meetup.com/wwcwichita
+* Open Wichita - meetup.com/openwichita
 * WuLUG, Linux Group - facebook.com/wulug
 * Startup Wichita - startupwichita.com
 * Shocker Startup - facebook.com/shockerstartup
