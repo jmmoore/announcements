@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu Feb 25 2016
+## Thu Mar 31 2016
 
 
 # About Us
@@ -71,17 +71,18 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Jan 25 (Friday) @ 11:30
-* ICT Pop Up Park, 121 E Douglas Ave
+* Apr 1 (Friday) @ 11:30
+* Zaytun, 21st and Woodlawn
+ * 2020 N Woodlawn, Suite 300
 
-![Pop Up Park](https://scontent.fmci1-1.fna.fbcdn.net/hphotos-xfl1/v/t1.0-9/12002146_1481497942151289_5092012979119519870_n.png?oh=766ccbefef831cb9392ac5d220611a80&oe=572386F8)
+![Zaytun](http://myzaytun.com/static/img/zaytun-logo-only-480.png)
 
 
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * Feb 29th, Mar 14th, Mar 28th
+  * Apr 11th, 25th
   * At the MakeICT Makerspace
 
 
@@ -91,18 +92,23 @@ PayPal donate button on [devict.org](http://devict.org)
   * Come whenever, leave whenever
 
 
+## Game Dev Build Day
+* April 9th, at The Labor Party, all day
+* Lunch and Dinner provided
+
+
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * March 8th
-* February's Theme: Board Games!
-  * BYOB(oard games)
+  * April 12th
+* April's theme is Snacks and Desserts
+  * Bring a treat and the recipe!
 
 
 ## Next Month's Talk
 
-Joshua Jung on Compiler Basics
+Souphan Keodouangkham on Becoming a Junior Developer
 
 
 ## Tonight's talk!
 
-Mobile Dev Quick Talks
+Joshua Jung with Lex it, Parse it, Generate It, Run It
