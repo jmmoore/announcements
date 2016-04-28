@@ -72,8 +72,12 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## Developer Lunch
 * Apr 29 (Friday) @ 11:30
-* Sabor Latin Bar and Grille, 2nd and Mead
- * 309 N. Mead
+* ICT Pop Up Park
+ * 121 E Douglas Ave
+
+![Pop Up Park](https://scontent.fmci1-1.fna.fbcdn.net/hphotos-xfl1/v/t1.0-9/12002146_1481497942151289_5092012979119519870_n.png?oh=766ccbefef831cb9392ac5d220611a80&oe=572386F8)
+
+Unless it's raining...
 
 
 ## Level Up!
