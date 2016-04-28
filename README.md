@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
 
-## Thu Mar 31 2016
+## Thu Apr 28 2016
 
 
 # About Us
@@ -71,18 +71,16 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Apr 1 (Friday) @ 11:30
-* Zaytun, 21st and Woodlawn
- * 2020 N Woodlawn, Suite 300
-
-![Zaytun](http://myzaytun.com/static/img/zaytun-logo-only-480.png)
+* Apr 29 (Friday) @ 11:30
+* Sabor Latin Bar and Grille, 2nd and Mead
+ * 309 N. Mead
 
 
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * Apr 11th, 25th
+  * May 9th, 23rd
   * At the MakeICT Makerspace
 
 
@@ -92,23 +90,21 @@ PayPal donate button on [devict.org](http://devict.org)
   * Come whenever, leave whenever
 
 
-## Game Dev Build Day
-* April 9th, at The Labor Party, all day
-* Lunch and Dinner provided
-
-
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * April 12th
-* April's theme is Snacks and Desserts
-  * Bring a treat and the recipe!
+  * May 10th
+* May's theme is Movie Night
+  * Movie to be decided in a Slack poll soon
 
 
 ## Next Month's Talk
-
-Souphan Keodouangkham on Becoming a Junior Developer
+* Cross Platform Programming Using Xamarin
+* Jonathan Simon
+* May 26th at The Labor Party
 
 
 ## Tonight's talk!
 
-Joshua Jung with Lex it, Parse it, Generate It, Run It
+Souphan Keodouangkham and Daniel Wood
+
+Becoming a Junior Developer
