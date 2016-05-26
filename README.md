@@ -99,6 +99,14 @@ PayPal donate button on [devict.org](http://devict.org)
   * Crayons aren't just for kids
 
 
+## Shots on the Patio
+* Get professional headshots from Kacy Meinecke Photography
+* $25 per person
+* June 12th, 2:00 PM
+* Public at The Brickyard
+* Please RSVP!
+
+
 ## Open Wichita Hackathon
 June 4th and 5th
 
