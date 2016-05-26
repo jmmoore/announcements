@@ -1,8 +1,8 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-![MakeICT](http://makeict.org/wp-content/uploads/2013/03/MakeICT-Logo-web.png)
+![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Thu Apr 28 2016
+## Thu May 26 2016
 
 
 # About Us
@@ -71,20 +71,18 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* Apr 29 (Friday) @ 11:30
-* ICT Pop Up Park
- * 121 E Douglas Ave
+* May 27 (Friday) @ 11:30
+* The Mumbai Rail
+ * 711 E Douglas Ave
 
-![Pop Up Park](https://scontent.fmci1-1.fna.fbcdn.net/hphotos-xfl1/v/t1.0-9/12002146_1481497942151289_5092012979119519870_n.png?oh=766ccbefef831cb9392ac5d220611a80&oe=572386F8)
-
-Unless it's raining...
+![The Mumbai Rail](http://themumbairail.com/wp-content/uploads/2015/04/mumbai-rail-logo2.jpg)
 
 
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * May 9th, 23rd
+  * June 6th, 20th
   * At the MakeICT Makerspace
 
 
@@ -96,19 +94,34 @@ Unless it's raining...
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * May 10th
-* May's theme is Movie Night
-  * Movie to be decided in a Slack poll soon
+  * June 14th
+* May's theme is Coloring!
+  * Crayons aren't just for kids
+
+
+## Open Wichita Hackathon
+June 4th and 5th
+
+![Hackathon](http://hackathonict.com/images/logo.png)
+
+http://hackathonict.com/
+
+
+## Go Language Workshop
+* June 25th and 26th
+* 8 seats left?
+
+![Gopher](https://raw.githubusercontent.com/jcbwlkr/gettingstartedwithgo/master/gopher.png)
 
 
 ## Next Month's Talk
-* Cross Platform Programming Using Xamarin
-* Jonathan Simon
-* May 26th at The Labor Party
+* Brian Simpson
+* Engineering Applications with React, Flux, and Immutable
+* June 30th at The Labor Party
 
 
 ## Tonight's talk!
 
-Souphan Keodouangkham and Daniel Wood
+Cross Platform Programming Using Xamarin
 
-Becoming a Junior Developer
+Jonathan Simon
