@@ -95,7 +95,7 @@ PayPal donate button on [devict.org](http://devict.org)
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
   * June 14th
-* May's theme is Coloring!
+* June's theme is Coloring!
   * Crayons aren't just for kids
 
 
