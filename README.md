@@ -111,7 +111,7 @@ RSVP! [ictgamejam.com](http://ictgamejam.com/)
 
 
 ## Next Month's Talk
-* Intro to Elixir
+* Functional Programming with Elixir
 * Seth Etter
 * July 28th at The Labor Party
 
