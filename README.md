@@ -107,6 +107,8 @@ July 15th - 17th
 
 RSVP! [ictgamejam.com](http://ictgamejam.com/)
 
+![game jam](gamejam.png)
+
 
 ## Next Month's Talk
 * Intro to Elixir
