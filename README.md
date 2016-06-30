@@ -110,6 +110,18 @@ RSVP! [ictgamejam.com](http://ictgamejam.com/)
 ![game jam](gamejam.png)
 
 
+## Java Talk
+
+* New monthly presentation event focusing on the Java ecosystem.
+* July 19th
+
+
+## Functional Works
+
+* New hands on workshop series exploring functional progamming languages.
+* Talk to Tanner (@doshitan)
+
+
 ## Next Month's Talk
 * Functional Programming with Elixir
 * Seth Etter
