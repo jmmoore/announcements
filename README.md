@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Thu May 26 2016
+## Thu June 30 2016
 
 
 # About Us
@@ -38,7 +38,9 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs over $100
+Monthly costs between **$120 and $300**
+
+Recurring monthly donations around **$80**
 
 * Meetup Group
 * Site Hosting
@@ -46,6 +48,8 @@ Monthly costs over $100
 * Food
 
 PayPal donate button on [devict.org](http://devict.org)
+
+Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 
 ## Give a Talk
@@ -71,7 +75,7 @@ PayPal donate button on [devict.org](http://devict.org)
 
 
 ## Developer Lunch
-* May 27 (Friday) @ 11:30
+* July 1st (Friday) @ 11:30
 * The Mumbai Rail
  * 711 E Douglas Ave
 
@@ -82,7 +86,8 @@ PayPal donate button on [devict.org](http://devict.org)
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * June 6th, 20th
+  * July 18th
+    * Skipping July 4th
   * At the MakeICT Makerspace
 
 
@@ -94,42 +99,23 @@ PayPal donate button on [devict.org](http://devict.org)
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * June 14th
-* June's theme is Coloring!
-  * Crayons aren't just for kids
+  * July 12th
 
 
-## Shots on the Patio
-* Get professional headshots from Kacy Meinecke Photography
-* $25 per person
-* June 12th, 2:00 PM
-* Public at The Brickyard
-* Please RSVP!
+## Game Jam!
+July 15th - 17th
 
-
-## Open Wichita Hackathon
-June 4th and 5th
-
-![Hackathon](http://hackathonict.com/images/logo.png)
-
-http://hackathonict.com/
-
-
-## Go Language Workshop
-* June 25th and 26th
-* 8 seats left?
-
-![Gopher](https://raw.githubusercontent.com/jcbwlkr/gettingstartedwithgo/master/gopher.png)
+RSVP! [ictgamejam.com](http://ictgamejam.com/)
 
 
 ## Next Month's Talk
-* Brian Simpson
-* Engineering Applications with React, Flux, and Immutable
-* June 30th at The Labor Party
+* Intro to Elixir
+* Seth Etter
+* July 28th at The Labor Party
 
 
 ## Tonight's talk!
 
-Cross Platform Programming Using Xamarin
+React, Flux, and Immutable JS
 
-Jonathan Simon
+Brian Simpson
