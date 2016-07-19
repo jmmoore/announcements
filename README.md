@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Thu June 30 2016
+## Tue July 19 2016
 
 
 # About Us
@@ -74,20 +74,11 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 # Upcoming Events
 
 
-## Developer Lunch
-* July 1st (Friday) @ 11:30
-* The Mumbai Rail
- * 711 E Douglas Ave
-
-![The Mumbai Rail](http://themumbairail.com/wp-content/uploads/2015/04/mumbai-rail-logo2.jpg)
-
-
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * July 18th
-    * Skipping July 4th
+  * August 1st, 15th, 29th
   * At the MakeICT Makerspace
 
 
@@ -99,27 +90,13 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * July 12th
-
-
-## Game Jam!
-July 15th - 17th
-
-RSVP! [ictgamejam.com](http://ictgamejam.com/)
-
-![game jam](gamejam.png)
-
-
-## Java Talk
-
-* New monthly presentation event focusing on the Java ecosystem.
-* July 19th
+  * August 9th
 
 
 ## Functional Works
 
 * New hands on workshop series exploring functional progamming languages.
-* Talk to Tanner (@doshitan)
+* First meeting Friday July 22nd, 6 PM at TLP
 
 
 ## Next Month's Talk
@@ -128,8 +105,6 @@ RSVP! [ictgamejam.com](http://ictgamejam.com/)
 * July 28th at The Labor Party
 
 
-## Tonight's talk!
+## Tonight's event!
 
-React, Flux, and Immutable JS
-
-Brian Simpson
+Java Talks: The Java Ecosystem
