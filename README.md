@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Tue July 19 2016
+## Thu July 28 2016
 
 
 # About Us
@@ -93,18 +93,22 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
   * August 9th
 
 
-## Functional Works
-
-* New hands on workshop series exploring functional progamming languages.
-* First meeting Friday July 22nd, 6 PM at TLP
+## Java Talks
+* **Every Third Tuesday 7:00 PM**
+  * August 16th
+  * Kotlin - How and Why
+  * Jacob Moore
 
 
 ## Next Month's Talk
-* Functional Programming with Elixir
-* Seth Etter
-* July 28th at The Labor Party
+* Scary JavaScript that Tracks you Online
+* Luke Crouch from Mozilla
+* August 25th at The Labor Party
+
 
 
 ## Tonight's event!
 
-Java Talks: The Java Ecosystem
+**Elixir is Fun!**
+
+Seth Etter
