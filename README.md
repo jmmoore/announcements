@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Thu July 28 2016
+## Tue August 16 2016
 
 
 # About Us
@@ -78,7 +78,7 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * August 1st, 15th, 29th
+  * August 29th, September 12th, 26th
   * At the MakeICT Makerspace
 
 
@@ -90,25 +90,23 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * August 9th
+  * September 13th
 
 
 ## Java Talks
 * **Every Third Tuesday 7:00 PM**
-  * August 16th
-  * Kotlin - How and Why
-  * Jacob Moore
+  * September 20th
+  * A Great Java Talk 
+  * You!
 
 
-## Next Month's Talk
+## Next devICT Monthly Talk
 * Scary JavaScript that Tracks you Online
 * Luke Crouch from Mozilla
 * August 25th at The Labor Party
 
 
-
 ## Tonight's event!
 
-**Elixir is Fun!**
-
-Seth Etter
+Kotlin: From Russia with Love...ly Syntax
+Jacob Moore
